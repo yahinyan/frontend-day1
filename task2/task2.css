@@ -1,0 +1,15 @@
+.myButton {
+    background-color: #229312;
+    color: white;
+    padding: 10px 16px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 15px;
+}
+.myButton:hover {
+    background-color: #2B332A;
+}
+#myParagraph {
+    font-size: 25px;
+}

@@ -1,0 +1,47 @@
+.color {
+    overflow: hidden;
+    background-color: #12192E;
+    float: left;
+    display: inline-block;
+    color: black;
+    text-align: center;
+    padding: 15px 40px;
+    text-decoration: none;
+    border-right: 1px solid #fff;
+    font-size: 17px;
+}
+.color:hover {
+    background-color: #DEDEE9;
+    color: black;
+}
+#red {
+    background-color: red;
+}
+#blue {
+    background-color: blue;
+}
+#green {
+    background-color: green;
+}
+#black {
+    background-color: black;
+    color: white;
+}
+#white {
+    background-color: white;
+}
+#grey {
+    background-color: grey;
+}
+#pink {
+    background-color: pink;
+}
+#yellow {
+    background-color: yellow;
+}
+#purple {
+    background-color: purple;
+}
+#orange {
+    background-color: orange;
+}

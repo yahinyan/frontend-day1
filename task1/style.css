@@ -1,0 +1,21 @@
+.navigation_bar {
+    overflow: hidden;
+    background-color: #353544;
+}
+.navigation_bar a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+    border-right: 1px solid #fff;
+    font-size: 17px;
+}
+.navigation_bar a:hover {
+    background-color: #DEDEE9;
+    color: black;
+}
+.section {
+    padding: 15px;
+}
